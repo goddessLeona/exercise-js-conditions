@@ -1,0 +1,143 @@
+body{
+    background-color: gray;
+    align-content: center;
+    justify-items: center;
+}
+
+.box1{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+#containerex1{
+    background-color: rgb(158, 118, 196);
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+}
+
+#containerex2{
+    background-color: rgb(158, 118, 196);
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+}
+
+#containerex3{
+    background-color: rgb(158, 118, 196);
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+}
+
+#containerex4{
+    background-color: rgb(158, 118, 196);
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+}
+
+.box2{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+#containerex5{
+    background-color: rgb(118, 196, 196);
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+}
+
+#containerex6{
+    background-color: rgb(118, 196, 196);
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+}
+
+#containerex7{
+    background-color: rgb(118, 196, 196);
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+}
+
+#containerex8{
+    background-color: rgb(118, 196, 196);
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+}
+
+#containerex9{
+    background-color: rgb(118, 196, 196);
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+}
+
+#containerex10{
+    background-color: rgb(118, 196, 196);
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+}
+
+.box3{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+#containerex11{
+    background-color: rgb(196, 118, 170);
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+}
+
+#containerex12{
+    background-color: rgb(196, 118, 170);
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+}
+
+#containerex13{
+    background-color: rgb(196, 118, 170);
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+}
+
+#containerex14{
+    background-color: rgb(196, 118, 170);
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+}
+
+#containerex15{
+    background-color: rgb(196, 118, 170);
+    border: 2px solid black;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+}
